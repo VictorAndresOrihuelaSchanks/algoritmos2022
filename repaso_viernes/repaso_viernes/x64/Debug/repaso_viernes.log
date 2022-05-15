@@ -1,0 +1,14 @@
+﻿  repaso_viernes.cpp
+C:\Users\User\source\repos\repaso_viernes\repaso_viernes\repaso_viernes.cpp(17,13): error C2143: syntax error: missing ';' before '<'
+C:\Users\User\source\repos\repaso_viernes\repaso_viernes\repaso_viernes.cpp(24): message : see reference to class template instantiation 'lista<T>' being compiled
+C:\Users\User\source\repos\repaso_viernes\repaso_viernes\repaso_viernes.cpp(17,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\source\repos\repaso_viernes\repaso_viernes\repaso_viernes.cpp(17,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\User\source\repos\repaso_viernes\repaso_viernes\repaso_viernes.cpp(12,47): error C3861: 'valor': identifier not found
+C:\Users\User\source\repos\repaso_viernes\repaso_viernes\repaso_viernes.cpp(26,8): error C2955: 'lista': use of class template requires template argument list
+C:\Users\User\source\repos\repaso_viernes\repaso_viernes\repaso_viernes.cpp(7): message : see declaration of 'lista'
+C:\Users\User\source\repos\repaso_viernes\repaso_viernes\repaso_viernes.cpp(27,1): error C2509: '{ctor}': member function not declared in 'lista'
+C:\Users\User\source\repos\repaso_viernes\repaso_viernes\repaso_viernes.cpp(7): message : see declaration of 'lista'
+C:\Users\User\source\repos\repaso_viernes\repaso_viernes\repaso_viernes.cpp(30,9): error C2955: 'lista': use of class template requires template argument list
+C:\Users\User\source\repos\repaso_viernes\repaso_viernes\repaso_viernes.cpp(7): message : see declaration of 'lista'
+C:\Users\User\source\repos\repaso_viernes\repaso_viernes\repaso_viernes.cpp(31,1): error C2509: '{dtor}': member function not declared in 'lista'
+C:\Users\User\source\repos\repaso_viernes\repaso_viernes\repaso_viernes.cpp(7): message : see declaration of 'lista'
