@@ -1,0 +1,10 @@
+﻿  ayuda.cpp
+C:\Users\User\source\repos\ayuda\ayuda\Cola.h(22,9): error C2143: syntax error: missing ';' before '<'
+C:\Users\User\source\repos\ayuda\ayuda\Cola.h(46): message : see reference to class template instantiation 'Cola<G>' being compiled
+C:\Users\User\source\repos\ayuda\ayuda\Cola.h(22,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\source\repos\ayuda\ayuda\Cola.h(22,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\User\source\repos\ayuda\ayuda\Cola.h(26,9): error C3861: 'inicio': identifier not found
+C:\Users\User\source\repos\ayuda\ayuda\Cola.h(32,13): error C3861: 'inicio': identifier not found
+C:\Users\User\source\repos\ayuda\ayuda\Cola.h(42,17): error C3861: 'inicio': identifier not found
+C:\Users\User\source\repos\ayuda\ayuda\Cola.h(43,9): error C3861: 'inicio': identifier not found
+C:\Users\User\source\repos\ayuda\ayuda\Cola.h(43,18): error C3861: 'inicio': identifier not found

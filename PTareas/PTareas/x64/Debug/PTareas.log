@@ -1,0 +1,16 @@
+﻿  PTareas.cpp
+C:\Users\User\source\repos\PTareas\PTareas\PTareas.cpp(20,25): error C2664: 'void Tree<int>::insert(G)': cannot convert argument 1 from 'PrioridadTareas' to 'G'
+          with
+          [
+              G=int
+          ]
+C:\Users\User\source\repos\PTareas\PTareas\PTareas.cpp(20,20): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\User\source\repos\PTareas\PTareas\ArbolPrioridadez.h(25,7): message : see declaration of 'Tree<int>::insert'
+C:\Users\User\source\repos\PTareas\PTareas\PTareas.cpp(28,4): error C2360: initialization of 'enteros' is skipped by 'case' label
+C:\Users\User\source\repos\PTareas\PTareas\PTareas.cpp(19): message : see declaration of 'enteros'
+C:\Users\User\source\repos\PTareas\PTareas\PTareas.cpp(30,4): error C2360: initialization of 'enteros' is skipped by 'case' label
+C:\Users\User\source\repos\PTareas\PTareas\PTareas.cpp(19): message : see declaration of 'enteros'
+C:\Users\User\source\repos\PTareas\PTareas\PTareas.cpp(32,4): error C2360: initialization of 'enteros' is skipped by 'case' label
+C:\Users\User\source\repos\PTareas\PTareas\PTareas.cpp(19): message : see declaration of 'enteros'
+C:\Users\User\source\repos\PTareas\PTareas\PTareas.cpp(34,4): error C2361: initialization of 'enteros' is skipped by 'default' label
+C:\Users\User\source\repos\PTareas\PTareas\PTareas.cpp(19): message : see declaration of 'enteros'
